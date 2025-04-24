@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.license      	= { :type => "MIT", :file => "LICENSE.txt" }
   s.author             	= "Jonas Gessner"
   s.social_media_url   	= "https://twitter.com/JonasGessner"
-  s.platforms     	= { :ios => "8.0", :tvos => "9.0" }
+  s.platforms     	= { :ios => "11.0", :tvos => "9.0" }
   s.source       	= { :git => "https://github.com/JonasGessner/JGProgressHUD.git", :tag => "v2.2" }
   s.source_files 	= "JGProgressHUD/JGProgressHUD/**/*.{h,m}"
   s.frameworks 	 	= "Foundation", "UIKit", "QuartzCore"
